@@ -6,7 +6,7 @@
   "author": "Benjamin Hilaire <benjamin.hilaire@amadeus.com>",
   "repository": {
     "type": "git",
-    "url": "https://rndwww.nce.amadeus.net/git/scm/dgasec/azurtechserver.git"
+    "url": "http://localhost:7990/scm/demo/demo-ppe.git"
   },
   "contributors": [
     {
